@@ -1,0 +1,14 @@
+.grid-conntainer{
+
+    display: grid;
+    column-gap: 150px;
+    row-gap: 150px;
+    background-color: aquamarine;
+    padding: auto;
+}
+
+.grid-item{
+
+    display:inline-grid ;
+    border: 1px solid rgba(red, green, blue, alpha);
+}
